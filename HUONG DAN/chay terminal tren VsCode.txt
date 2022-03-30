@@ -1,0 +1,18 @@
+01/ file> preferences> setting> o muc search: go tim code runner> chuyen tich vao o code runner for terminal.
+02/ cach dung lenh de chay code C/C++ tren terminal ma khong can bam Ctrl + Alt + N or (f5) start debugging.
+   - C
+       cu phap 1: gcc 'tenfile.c' -o 'tenfile.exe' ('.exe' co the bo)> nhap tiep 'tenfile.exe' de buid code
+       cu phap 2: gcc .\'tenfile.c' -o 'tenfile.exe'> nhap .\ 'tenfile.exe'
+        VD:go:  gcc main.c -o main> main.exe
+                gcc .\main.c -o main> .\'main.exe
+                 
+
+    - C++
+       cu phap 1: g++ .\'tenfile.cpp' -o 'tenfile.exe' ('.exe' co the bo)> nhap tiep .\'tenfile.exe' de buid code
+        VD:go~" gcc .\main.cpp -o main> .\'main.exe
+                 
+
+03/ doi voi Java chay tren terminal:
+    cu phap:
+        go~: javac "tenfile.java"> nhap java "tenfile.class" ( co th bo ".class") de build code
+      vd: go~: javac main.java? java main ( main o day duoc hieu la main.class).

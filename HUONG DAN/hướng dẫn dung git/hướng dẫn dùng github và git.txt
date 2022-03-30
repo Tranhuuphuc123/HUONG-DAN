@@ -1,0 +1,45 @@
+*** HƯỚNG DẪN TRUY CẬP UPLOAD DỮ LIỆU TỪ SOURCODE PC LÊN GITHUB THÔNG QUA GIT PASH***
+01/ ta tạo repository trong github
+
+02/ mở git lên, hoặc terminal: 
+   - truy cập echo đến ổ đĩa, thư mục cần upload: nhập >>git init
+
+03/tiếp tục nhập dòng lệnh: >>git status ( để kiểm tra các file trong thư mục cần load), 
+  or dùng: >>ls. ( bước này bỏ qua cũng đc).
+
+04/ upload thư mục file lên github: >> git add . ( nhập chọn hêt) or >> git add "tên thư mục or file"
+
+05/ nhập: >> git commit -m "ghi chú thích"
+
+06/ liên kết tới trang git hub: >> git remote add origin https://github.com/Tranhuuphuc123/vidu.git
+   ---> trong đó phần " https://github.com/Tranhuuphuc123/vidu.git" ta copy từ link dẫn đến github vừa tạo repositoty
+
+07: tải lên: >> git push -u origin master
+
+****KHI SỮA FILE HOẶC NGƯỜI KHÁC UPLOAD LÊN ĐỂ CẬP NHẬT***
+01/ ta nhập: >> git null ( nhớ phải truy cập file git đúng nơi vừa upload mới đc, trường hợp không null đc thì xem cách hướng dẫn
+lấy file từ git hub về bổ sung sau)
+
+***TRƯỜNG HỢP TỪ MỘT MÁY KHÁC, OR NGƯỜI KHÁC THAM GIA SOURCODE CHUNG THI TRUY CẬP GITHUB NTN**
+01/ mở git or terminal
+
+02/ Nhập: >> git clone  https://github.com/Tranhuuphuc123/vidu.git
+ --> trong đó " https://github.com/Tranhuuphuc123/vidu.git" là ddg dẫn tới github ta tạo
+
+03/ lúc này file github sẽ đc tải về--> ta có thể truy cập thông  qua câu lệnh: >>nhập cd vidu ( vidu la file repository)>> ls(kiểm tra ds)>>  vi "tên file code cần sữa, làm"( cách này dùng cho neovim) còn không thì lúc này ta đã có file project, class cứ mở trinh duyệt ide lên load project code bình thường,
+
+
+****SAU KHI CODE XONG MÚN UPLOAD LẠI HAY THÊM***
+01/ ta dựa vào file reponsitory vừa tải về từ lệnh git clone>> copy hay lưu file, project mới vào reponsiroty đó
+
+02/nhập: >> git status ( kiểm tra)
+
+03/ >> git add . or tên file cụ thể
+
+05/ >> git commit -m ""
+
+06/ >> git push ( tải lên là xong)
+
+
+
+

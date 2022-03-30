@@ -1,0 +1,24 @@
+01/ Auto import
+02/ auto rename tag
+03/ Bracket Pair Colorizer
+04/ Code spell checker
+05/ Docker
+06/ Dracula Official
+07/ Impost cost ( so lương kb)
+08/ Live Server ( coi web sao soan )
+09/ Lombok Annotations Support for VS Code
+10/ npm Intellisense
+11/ path intellisense
+12/ Prettier - code formatter
+13/ sonarLint ( phat loi)
+14/ Spring boot Dashboard
+15/ Visual Studio Intellicode
+16/ VSCode-icons
+17/ XML
+
+****** HTML, CSS, JS, PHP
++ HTML, CSS
+ 01/ html to css
+ 02/ live server
+ 03/ live sass compiler ( xem tuy chinh css)
+ 04/ live server preview ( xem song song code va web trong vscode, bam f1-show live server)
