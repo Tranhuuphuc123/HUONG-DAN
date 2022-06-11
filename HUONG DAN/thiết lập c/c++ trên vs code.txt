@@ -1,0 +1,13 @@
+1/ chạy và download mingw--> cài đặt mingw
+2/ thiết lập path mingw:
+  - b1: vào đg dẫn mingw: C:\MinGW\bin
+  - b2: mở enviroment lên-> mở enviroment variable->ở mục system variable chon path--> new và dán dg link trên vào
+3/ tải vscode: cài các entension:
+  - b1: c/c++ clang
+  - b2: code runner
+  - b3: các gói c/c++ package ( c/c++, c/c++ themes, vscode icon...) không bắt buộc.
+  
+  4/ thiết lập chạy code trên vs code:
+   - b1: setting> preference>nhập tìm code runner trên thanh search> tích vào ô run code terminal.
+   
+ 
