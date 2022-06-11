@@ -2,3 +2,5 @@ kiểm tra tên máy:
    - wmic csproduct get name
 kiểm tra số serial của máy
    - wmic bios get serialnumber
+hoặc gõ kiểm tra tổng thể
+   - systeminfo: chú ý cột system manual factor vs system model
