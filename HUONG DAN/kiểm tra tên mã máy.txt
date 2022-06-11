@@ -1,0 +1,4 @@
+kiểm tra tên máy:
+   - wmic csproduct get name
+kiểm tra số serial của máy
+   - wmic bios get serialnumber
