@@ -17,7 +17,7 @@
 07: tải lên: >> git push -u origin master
 
 ****KHI SỮA FILE HOẶC NGƯỜI KHÁC UPLOAD LÊN ĐỂ CẬP NHẬT***
-01/ ta nhập: >> git null ( nhớ phải truy cập file git đúng nơi vừa upload mới đc, trường hợp không null đc thì xem cách hướng dẫn
+01/ ta nhập: >> git pull ( nhớ phải truy cập file git đúng nơi vừa upload mới đc, trường hợp không pull đc thì xem cách hướng dẫn
 lấy file từ git hub về bổ sung sau)
 
 ***TRƯỜNG HỢP TỪ MỘT MÁY KHÁC, OR NGƯỜI KHÁC THAM GIA SOURCODE CHUNG THI TRUY CẬP GITHUB NTN**
