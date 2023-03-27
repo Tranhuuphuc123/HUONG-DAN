@@ -13,6 +13,9 @@
 ****TẠO NHÁNH 
     - Git branch <branchname>: tạo branch
     or Git checkout -b <branchname>.
+    
+     --> khi làm dự án chúng có nhiều nhánh cần dùng git fetch để update cac nhánh rồi mới chọn nhánh
+   -lệnh: git fetch origin;
 
 ****LÀM VIỆC TEAM ( ÚP CODE DỰ ÁN CỦA TEAM)
     -b1/ nhấn vào nhánh forrk trên dự án của team ( liên kết để gộp nhánh prject của team về project của mình)
