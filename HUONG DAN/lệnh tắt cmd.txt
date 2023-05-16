@@ -1,0 +1,29 @@
+﻿****************LỆNH TẮT CMD***************
+ ****************LỆNH TẮT CMD***************
+    - MỞ FILE: TRUY CẬP Ổ ĐĨA, vd: cmd> gõ  G: > cd  đg dẫn>enter
+    - Đang ở muc 1/2 mún quay lại mục 1 thay vì nhập lại từ đầu:ta nhấn cd ..
+    - tạo file.txt,.doc,.cpp...: type nul> tên file.txt/.doc/.cpp
+    --> muốn tạo nhiều file lượt thì: type nul> file1 file2...
+       + đối với git: touch tên file.txt/.doc/.cpp.java...
+       ---> tg tự mún tạo nhiều file lượt thì: touch file1 file2..
+
+    - tạo file văn bản .doc(word): copy con tenfile.txt  
+
+    - xóa file:  del   tên_file(.txt, .doc..)
+      --> xóa nhiểu file: cmd>del file1 fie2 file3 ..
+       + nếu dùng git: rm tên file.txt/.doc.cpp...
+       ---> tương tự muốn xóa nhiều file lượt thì rm file1 file2....
+      
+  -- sữa file:
+      ++ git bash:
+             mv <tên file cũ> <tên file mới>
+
+    - tạo thư mục folder: mkdir tên_folder
+    - xóa thư mục: cmd> rmdir  tên_folder>Y/N chọn Y.
+    - xem danh sách list:  dir /a
+       + nếu dùng git: ls
+       
+    - mở nhanh vscode: cmd> .code
+    - mở nhanh intelj: 
+
+--------------------------------------
