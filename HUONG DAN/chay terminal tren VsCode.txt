@@ -9,7 +9,7 @@
 
     - C++
        cu phap 1: g++ .\'tenfile.cpp' -o 'tenfile.exe' ('.exe' co the bo)> nhap tiep .\'tenfile.exe' de buid code
-        VD:go~" gcc .\main.cpp -o main> .\'main.exe
+        VD:go~" g++ .\main.cpp -o main> .\'main.exe
                  
 
 03/ doi voi Java chay tren terminal:
